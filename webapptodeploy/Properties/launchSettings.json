@@ -18,7 +18,7 @@
       "dotnetRunMessages": true
     },
     "IIS Express": {
-      "commandName": "nbs-digital",
+      "commandName": "nationwide-building-society",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
